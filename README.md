@@ -4,6 +4,8 @@
 
 AI-DOT-BOT incorporates advanced deep learning models such as **Artificial Neural Networks (ANN)** and **Recurrent Neural Networks (LSTM)** to predict closing prices of options contracts with high precision. The system integrates powerful optimization techniques and follows a full machine learning pipeline — from data preprocessing to real-time signal generation.
 
+📝[Ready Tensor Publication](https://app.readytensor.ai/publications/ai-dot-artificial-intelligence-driven-options-trading-bot-jojuSlCdBrvw)
+
 ---
 
 ## 🧠 Key Features
